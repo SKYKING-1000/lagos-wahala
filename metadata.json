@@ -1,0 +1,6 @@
+{
+  "name": "LAGOS SURVIVAL MODE: 3D Open-World Life Simulator",
+  "description": "An authentic, playable 3D open-world Lagos life simulator. Wake up in Ikeja, manage fuel and traffic, navigate connecting expressways to Yaba, VI and Lekki, work, buy Nigerian street food, and survive Lagos daily life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
